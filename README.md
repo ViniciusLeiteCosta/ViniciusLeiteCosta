@@ -1,5 +1,5 @@
 - 👋 Me chamo @ViniciusLeiteCosta
-- 🕹️ Sou interessado em jogos, segurança e acho interessante inteligência artificial.
+- 🕹️ Sou interessado em jogos e música.
 - 🌱 Estou aprendendo a programar!
 - 📫 Você pode me encontrar em: viniciusleitecosta@gmail.com
 
