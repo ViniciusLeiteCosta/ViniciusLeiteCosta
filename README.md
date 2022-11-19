@@ -1,6 +1,6 @@
 - 👋 Me chamo @ViniciusLeiteCosta
-- 🕹️ Sou interessado em jogos e música.
-- 🌱 Estou aprendendo a programar!
+- 🕹️ Sou interessado em jogos, música e programação.
+- 🌱 Almejando Web Full Stack!
 - 📫 Você pode me encontrar em: viniciusleitecosta@gmail.com
 
 <!---
