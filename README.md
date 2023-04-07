@@ -1,6 +1,6 @@
-<h1 align="center">Olá, seja muito bem-vindo(a)!</h1>
+<h1 align="center">Hello, welcome!</h1>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ViniciusLeiteCosta&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div> 
-<h3 align="center">Sou o Vinicius Leite, um desenvolvedor web apaixonado pelo que faço! Sejam bem-vindos ao meu repositório, onde compartilho meus projetos e habilidades em HTML, CSS, PHP e JavaScript.</h3> <h3>Linguagens:</h3> 
+<h3 align="center">I am Vinicius Leite, a web developer who is passionate about what I do. Please allow me to extend a warm welcome to my repository, a space where I share projects and skills acquired in HTML, CSS, PHP, and JavaScript.</h3> <h3>Languages:</h3> 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
