@@ -1,6 +1,6 @@
 <h1 align="center">Hello, welcome!</h1>
 
-<h3 align="center">I am Vinicius Leite, a web developer who is passionate about what I do. Please allow me to extend a warm welcome to my repository, a space where I share projects and my skills.</h3> <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=viniciusleitecosta&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  <h3>Languages:</h3> 
+<h3 align="center">I am Vinicius Leite, a web developer and computer science student who is passionate about what I do. Please allow me to extend a warm welcome to my repository, a space where I share projects and my skills.</h3> <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=viniciusleitecosta&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  <h3>Languages:</h3> 
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
