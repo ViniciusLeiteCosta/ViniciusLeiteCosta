@@ -1,6 +1,8 @@
 <h1 align="center">Hello, welcome!</h1>
 
-<p align="center">![MyName](https://github.com/ViniciusLeiteCosta/ViniciusLeiteCosta/assets/92338016/302e61b6-235f-4d0d-ab52-bb3f05f18144)</p>
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/92338016/247196957-f68546c3-a627-4941-a3fe-14df030be983.gif" alt="MyName">
+</p>
 
 <h3 align="center">I am Vinicius Leite, a web developer and computer science student who is passionate about what I do. Please allow me to extend a warm welcome to my repository, a space where I share projects and my skills.</h3> <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=viniciusleitecosta&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  <h3>Languages:</h3> 
 
