@@ -21,22 +21,33 @@
 
 ###
 
+&nbsp;
+&nbsp;
 <h2 align="left">About me</h2>
 
 ###
 
+&nbsp;
+&nbsp;
 <p align="center">I am Vinicius Leite, a web developer and computer science student who is passionate about what I do. Please allow me to extend a warm welcome to my repository, a space where I share projects and my skills!</p>
 
 ###
 
+&nbsp;
+&nbsp;
 <p align="center">
+    &nbsp;
     <img src="https://github.com/ViniciusLeiteCosta/ViniciusLeiteCosta/assets/92338016/2058db71-43bd-44f2-a2cf-249c98975ef6.gif" alt="Mario">
 </p>
 
+&nbsp;
+&nbsp;
 <p align="left">✨ Aiming for Full Stack Web Development! ✨<br>🕹️ Passionate about games and music. <br>👨‍💻 Currently pursuing a Bachelor's degree in Computer Science at UFAPE.</p>
 
 ###
 
+&nbsp;
+&nbsp;
 <h2 align="left">Actually working with:</h2>
 
 ###
@@ -57,6 +68,8 @@
 
 ###
 
+&nbsp;
+&nbsp;
 <h2 align="left">I have knowledge in:</h2>
 
 ###
@@ -87,6 +100,8 @@
 
 ###
 
+&nbsp;
+&nbsp;
 <h2 align="left">Frameworks:</h2>
 
 ###
@@ -101,6 +116,8 @@
 
 ###
 
+&nbsp;
+&nbsp;
 <h2 align="left">Tools And Operational Systems:</h2>
 
 ###
@@ -119,6 +136,8 @@
 
 ###
 
+&nbsp;
+&nbsp;
 <h2 align="left">Contact:</h2>
 <h3 align="left">Email - viniciusleitecosta@gmail.com</h3>
 <h3 align="left">Linkedin Profile - linkedin.com/in/viniciusleitecosta1</h3>
