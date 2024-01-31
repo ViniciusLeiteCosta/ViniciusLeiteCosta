@@ -10,13 +10,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusLeiteCosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusLeiteCosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <a>
-   <!-- Yes, i used these entitys to make a space between the areas cuz i'm evil! Muahahaha --> 
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
-    <img src="https://github.com/ViniciusLeiteCosta/ViniciusLeiteCosta/assets/92338016/2058db71-43bd-44f2-a2cf-249c98975ef6.gif" alt="Mario">
+    <img src="https://github.com/ViniciusLeiteCosta/ViniciusLeiteCosta/assets/92338016/73164547-ac6b-4fe0-937b-e7116870fd7a)" alt="Mario">
   </a>
+
       
 </div>
 
