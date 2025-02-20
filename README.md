@@ -138,7 +138,7 @@
 &nbsp;
 <h2 align="left">Contact:</h2>
 <h3 align="left">Email - viniciusleitecosta@gmail.com</h3>
-<h3 align="left">Linkedin Profile - linkedin.com/in/viniciusleitecosta1</h3>
+<h3 align="left">Linkedin Profile - linkedin.com/in/viniciusleitecosta</h3>
 
 ###
 
