@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/viniciusleitecosta1/">
+  <a href="https://www.linkedin.com/in/viniciusleitecosta/">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/92338016/247196957-f68546c3-a627-4941-a3fe-14df030be983.gif" alt="MyName">
   </a>
 </p>
