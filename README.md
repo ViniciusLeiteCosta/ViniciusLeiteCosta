@@ -40,7 +40,7 @@
 
 &nbsp;
 &nbsp;
-<p align="left">✨ Aiming for Full Stack Web Development! ✨<br>🕹️ Passionate about games, cibersecurity, AI and music. <br>👨‍💻 Currently pursuing a Bachelor's degree in Computer Science at UFAPE.</p>
+<p align="left">✨ I'm a computer crazy (in the good way)!<br>🕹️ Passionate about games, cibersecurity, AI and music. <br>👨‍💻 Currently pursuing a Bachelor's degree in Computer Science at UFAPE.</p>
 
 ###
 
